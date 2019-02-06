@@ -4,6 +4,10 @@
 League of legends multi chat emulates moderated chat rooms via the client's build in chat service. 
 
 
+
+<a href="https://www.youtube.com/watch?v=w1umh_Wg9uk"><img src="https://user-images.githubusercontent.com/9025925/52348614-0ce4f980-2a25-11e9-91db-8cd0c8c16696.jpg"/></a>
+
+
 __Note:__ I am a strong advocate of open source projects but due to the nature of potential spammers abusing the internal league
 api, only a small fraction of the code will be available in this repository. 
 
